@@ -11,49 +11,39 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Dr. rer. nat. (summa cum laude), University of Stuttgart, 2023
+  * Faculty of Mathematics and Physics
+  * Cluster of Excellence Simulation Technology (SimTech)
+* M.S. in Mathematics, University of Freiburg, 2018
+* B.S. in Mathematics, University of Freiburg, 2016
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Jan 2024: Senior AI Researcher
+  * appliedAI Institute for Europe gGmbH
+  * Munich, Bavaria, Germany
+  * [TransferLab - Simulation and AI](https://transferlab.ai/authors/samuel-burbulla/)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Apr 2023: AI Researcher
+  * appliedAI Institute for Europe gGmbH
+
+* Apr 2018: Doctoral Researcher
+  * University of Stuttgart
+  * Institute of Applied Analysis and Numerical Simulation
+  * Supervisor: Prof. Dr. Christian Rohde
+
+* Aug - Oct 2021: Visiting Researcher
+  * Politecnico di Milano
+  * MOX, Modeling and Scientific Computing
+  * Luca Formaggia and Anna Scotti
+
+* Apr 2015 - Oct 2017: Student Assistant
+  * University of Freiburg
+  * Department of Applied Mathematics
+  * Group of Prof. Dr. Dietmar Kröner
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Machine Learning and Scientific Computing
+* Python / C++
+* Excellent communication, teamwork, and leadership skills
