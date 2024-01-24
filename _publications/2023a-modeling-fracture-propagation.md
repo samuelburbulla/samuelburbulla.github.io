@@ -19,5 +19,3 @@ grid fully conforming to the fractures. As the fracture propagates, the diffuse
 phase-field acts as indicator to identify new fracture facets to be added to the
 discrete fracture network. Numerical experiments demonstrate that our approach
 reproduces classical scenarios for fracturing porous media.
-
-[Download paper here](https://www.sciencedirect.com/science/article/abs/pii/S0045782522006545)

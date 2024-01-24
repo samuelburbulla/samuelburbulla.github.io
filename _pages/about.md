@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-# Hi!
-
 I am an applied mathematician with a PhD in mathematical modelling
 and numerical simulation - and enthusiastic about everything that makes
 machines intelligent!

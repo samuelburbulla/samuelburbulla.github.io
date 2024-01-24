@@ -21,5 +21,3 @@ fractures. The wellposedness of the new model is proven under appropriate
 conditions. Further, we formulate a discontinuous Galerkin discretization of the
 new model and validate the model by performing two- and three-dimensional
 numerical experiments.
-
-[Download paper here](https://epubs.siam.org/doi/abs/10.1137/22M1510406)

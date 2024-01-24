@@ -2,7 +2,7 @@
 title: "Physics-informed neural networks for transformed geometries and manifolds"
 collection: publications
 permalink: /publication/2023c-physics-informed-neural-networks-for
-excerpt: 'We propose a mixed-dimensional finite-volume discretization based on a conforming moving-mesh.'
+excerpt: 'We propose physics-informed neural networks for transformed geometries and manifolds.'
 date: 2023-11-27
 venue: 'arXiv'
 paperurl: 'https://arxiv.org/abs/2311.15940'
@@ -24,5 +24,3 @@ the enhanced flexibility over traditional PINNs, especially under geometric
 variations. The proposed framework presents an outlook for training deep neural
 operators over parametrized geometries, paving the way for advanced modeling
 with PDEs on complex geometries in science and engineering.
-
-[Download paper here](https://arxiv.org/abs/2311.15940)

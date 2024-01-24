@@ -27,5 +27,3 @@ of the reduced model as it compares to the original full dimensional model.
 Moreover, we show the performance of the finite-volume moving-mesh algorithm for
 the complex wave pattern that is induced by the interaction of saturation fronts
 and evolving fractures.
-
-[Download paper here](https://www.sciencedirect.com/science/article/abs/pii/S0021999122000936)
