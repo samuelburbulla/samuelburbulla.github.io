@@ -5,7 +5,7 @@ permalink: /publication/2023a-modeling-fracture-propagation
 date: 2023-01-01
 venue: 'Computer Methods in Applied Mechanics and Engineering'
 paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0045782522006545'
-citation: 'Samuel Burbulla, Luca Formaggia, Christian Rohde, Anna Scotti (2023) Modeling fracture propagation in poro-elastic media combining phase-field and discrete fracture models. Computer Methods in Applied Mechanics and Engineering, Volume 403, Part A, 115699.'
+citation: 'Samuel Burbulla, Luca Formaggia, Christian Rohde, Anna Scotti (2023). Modeling fracture propagation in poro-elastic media combining phase-field and discrete fracture models. <i>Computer Methods in Applied Mechanics and Engineering</i>, Volume 403, Part A, 115699.'
 ---
 We present a novel model for fluid-driven fracture propagation in poro-elastic
 media. Our approach combines ideas from dimensionally reduced discrete fracture

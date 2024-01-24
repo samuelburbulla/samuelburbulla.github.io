@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am Samuel, an applied mathematician with a PhD in mathematical modeling
-and numerical simulation, who is enthusiastic about everything that makes
+and numerical simulation who is enthusiastic about everything that makes
 machines intelligent!
 
 I'm working at the [TransferLab](https://transferlab.ai) of

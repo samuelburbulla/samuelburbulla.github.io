@@ -5,7 +5,7 @@ permalink: /publication/2023c-physics-informed-neural-networks-for
 date: 2023-11-27
 venue: 'arXiv'
 paperurl: 'https://arxiv.org/abs/2311.15940'
-citation: 'Samuel Burbulla (2023) Physics-informed neural networks for transformed geometries and manifolds. arXiv:2311.15940.'
+citation: 'Samuel Burbulla (2023). Physics-informed neural networks for transformed geometries and manifolds. <i>arXiv</i>:2311.15940.'
 ---
 Physics-informed neural networks (PINNs) effectively embed physical principles
 into machine learning, but often struggle with complex or alternating

@@ -5,7 +5,7 @@ permalink: /publication/2023b-flow-in-porous-media-with
 date: 2023-08-31
 venue: 'SIAM Journal on Scientific Computing'
 paperurl: 'https://epubs.siam.org/doi/abs/10.1137/22M1510406'
-citation: 'Samuel Burbulla, Maximilian Hörl, Christian Rohde (2023) Flow in porous media with fractures of varying aperture. SIAM Journal on Scientific Computing 45(4), A1519-A1544.'
+citation: 'Samuel Burbulla, Maximilian Hörl, Christian Rohde (2023). Flow in porous media with fractures of varying aperture. <i>SIAM Journal on Scientific Computing</i> 45(4), A1519-A1544.'
 ---
 We study single-phase flow in a fractured porous medium at a macroscopic scale
 that allows us to model fractures individually. The flow is governed by Darcy’s

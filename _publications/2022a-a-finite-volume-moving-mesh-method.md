@@ -5,8 +5,8 @@ permalink: /publication/2022a-a-finite-volume-moving-mesh-method
 date: 2022-06-01
 venue: 'Journal of Computational Physics'
 paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0021999122000936'
-citation: 'Samuel Burbulla, Christian Rohde (2022) A finite-volume moving-mesh method for two-phase flow in dynamically fracturing porous media.
-Journal of Computational Physics, Volume 458, 2022, 111031.'
+citation: 'Samuel Burbulla, Christian Rohde (2022). A finite-volume moving-mesh method for two-phase flow in dynamically fracturing porous media.
+<i>Journal of Computational Physics</i>, Volume 458, 2022, 111031.'
 ---
 Multiphase flow in fractured porous media can be described by discrete fracture
 matrix models that represent the fractures as dimensionally reduced manifolds
