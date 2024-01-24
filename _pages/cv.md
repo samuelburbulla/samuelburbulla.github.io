@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -14,15 +14,17 @@ Education
 * Dr. rer. nat. (summa cum laude), University of Stuttgart, 2023
   * Faculty of Mathematics and Physics
   * Cluster of Excellence Simulation Technology (SimTech)
-* M.S. in Mathematics, University of Freiburg, 2018
-* B.S. in Mathematics, University of Freiburg, 2016
+  * Supervisor: Prof. Dr. Christian Rohde
+  * Thesis: Mixed-dimensional Modeling of Flow in Porous Media
+* M.Sc. in Mathematics, University of Freiburg, 2018
+* B.Sc. in Mathematics, University of Freiburg, 2016
 
-Work experience
+Experience
 ---
 * Jan 2024: **Senior AI Researcher**
   * appliedAI Institute for Europe gGmbH
-  * Munich, Bavaria, Germany
   * [TransferLab - Simulation and AI](https://transferlab.ai/authors/samuel-burbulla/)
+  * Munich, Bavaria, Germany
 
 * Apr 2023: **AI Researcher**
   * appliedAI Institute for Europe gGmbH
@@ -30,7 +32,6 @@ Work experience
 * Apr 2018: **Doctoral Researcher**
   * University of Stuttgart
   * Institute of Applied Analysis and Numerical Simulation
-  * Supervisor: Prof. Dr. Christian Rohde
 
 * Aug - Oct 2021: **Visiting Researcher**
   * Politecnico di Milano

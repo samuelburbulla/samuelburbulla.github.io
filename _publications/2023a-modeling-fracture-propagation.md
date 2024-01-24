@@ -2,7 +2,6 @@
 title: "Modeling fracture propagation in poro-elastic media combining phase-field and discrete fracture models"
 collection: publications
 permalink: /publication/2023a-modeling-fracture-propagation
-excerpt: 'We present a novel model for fluid-driven fracture propagation in poro-elastic media.'
 date: 2023-01-01
 venue: 'Computer Methods in Applied Mechanics and Engineering'
 paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0045782522006545'

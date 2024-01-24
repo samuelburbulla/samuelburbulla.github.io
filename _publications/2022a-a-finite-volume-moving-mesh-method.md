@@ -2,7 +2,6 @@
 title: "A finite-volume moving-mesh method for two-phase flow in dynamically fracturing porous media"
 collection: publications
 permalink: /publication/2022a-a-finite-volume-moving-mesh-method
-excerpt: 'We propose a mixed-dimensional finite-volume discretization based on a conforming moving-mesh.'
 date: 2022-06-01
 venue: 'Journal of Computational Physics'
 paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0021999122000936'

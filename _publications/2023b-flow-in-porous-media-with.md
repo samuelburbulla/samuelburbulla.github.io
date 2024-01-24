@@ -2,11 +2,10 @@
 title: "Flow in porous media with fractures of varying aperture"
 collection: publications
 permalink: /publication/2023b-flow-in-porous-media-with
-excerpt: 'We derive a new mixed-dimensional model, where fractures are represented by (n-1)-dimensional interfaces between n-dimensional subdomains.'
-date: 2015-10-01
+date: 2023-08-31
 venue: 'SIAM Journal on Scientific Computing'
 paperurl: 'https://epubs.siam.org/doi/abs/10.1137/22M1510406'
-citation: 'Samuel Burbulla, Maximilian Hörl, Christian Rohde (2023) Flow in porous media with fractures of varying aperture. SIAM Journal on Scientific Computing 45(4), A1519-A1544'.
+citation: 'Samuel Burbulla, Maximilian Hörl, Christian Rohde (2023) Flow in porous media with fractures of varying aperture. SIAM Journal on Scientific Computing 45(4), A1519-A1544.'
 ---
 We study single-phase flow in a fractured porous medium at a macroscopic scale
 that allows us to model fractures individually. The flow is governed by Darcy’s
