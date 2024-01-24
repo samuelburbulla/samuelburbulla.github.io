@@ -23,7 +23,7 @@ Experience
 ---
 * Jan 2024: **Senior AI Researcher**
   * appliedAI Institute for Europe gGmbH
-  * [TransferLab - Simulation and AI](https://transferlab.ai/authors/samuel-burbulla/)
+  * TransferLab - Simulation and AI ([my work](https://transferlab.ai/authors/samuel-burbulla/))
   * Munich, Bavaria, Germany
 
 * Apr 2023: **AI Researcher**

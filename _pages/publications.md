@@ -7,7 +7,10 @@ author_profile: true
 
 {% include base_path %}
 
-You can also find my articles on <a href="[{{author.googlescholar}}](https://scholar.google.com/citations?user=uUkxLGAAAAAJ)">my Google Scholar profile</a>.
+You can find all of my articles on
+<a href="https://scholar.google.com/citations?user=uUkxLGAAAAAJ">my Google Scholar profile</a>.
+
+<h2>Selected Papers</h2>
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}

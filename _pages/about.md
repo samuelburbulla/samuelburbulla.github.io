@@ -20,3 +20,6 @@ approaches to scientific ML.
 
 With the rest of my time, I enjoy traveling and hiking the Alps
 with my wife, or playing drums or guitar at ICF Munich.
+
+For more details, check out my [CV](/cv/), [Publications](/publications/)
+and [Code](/code/)!
