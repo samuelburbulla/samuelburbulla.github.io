@@ -1,7 +1,6 @@
 ---
 permalink: /
-title: "Hi!"
-excerpt: "About me"
+title: "About"
 author_profile: true
 redirect_from: 
   - /about/
@@ -19,7 +18,7 @@ This includes physics-informed machine learning, operator learning and other
 approaches to scientific ML.
 
 With the rest of my time, I enjoy traveling and hiking the Alps
-with my wife, or playing drums or guitar at ICF Munich.
+with my wife, and playing drums or guitar!
 
 For more details, check out my [CV](/cv/), [Publications](/publications/)
 and [Code](/code/)!
