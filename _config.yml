@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Samuel Burbulla"
 title_separator          : "-"
 name                     : &name "Samuel Burbulla"
-description              : &description "Senior AI Researcher"
+description              : &description "Software Engineer at Google"
 url                      : https://samuelburbulla.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "samuelburbulla/samuelburbulla.github.io"
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Dr. Samuel Burbulla"
   avatar           : "profile.png"
-  bio              : "Senior AI Researcher @appliedAI Institute"
+  bio              : "Software Engineer at Google"
   location         : "Munich, Germany"
-  employer         :
+  employer         : "Google"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=uUkxLGAAAAAJ"
   email            : "samuel.burbulla@gmail.com"
