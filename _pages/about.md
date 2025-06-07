@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I’m Samuel, an applied mathematician protecting Google’s AI systems as part of the ML Red Team (since January 2025).
+I’m Samuel, an applied mathematician protecting Google’s AI systems as part of the ML Red Team.
 
 In my free time I love exploring the Alps with my wife or jamming on drums and guitar!
 
